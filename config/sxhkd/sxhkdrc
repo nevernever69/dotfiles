@@ -1,0 +1,18 @@
+
+super+ shift + p
+	slock 
+
+
+
+F3
+	brillo -U 5 -q
+
+F2
+
+	brillo -A 5 -q
+F12
+	firefox	
+
+
+
+
